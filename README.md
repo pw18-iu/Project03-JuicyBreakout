@@ -16,9 +16,7 @@ I added a blinking effect to the eyeballs on the paddle. which reference the pad
 
 I changed the animation of the bricks disappearing from "fall" to "Transform Do rotate".
 
-I also added particle effects to the bricks, so that they would burst and generate small blocks when hit by the ball. 
-
-I also added audio for the bricks when the ball hits them.
+I also added particle effects to the bricks, so that they would burst and generate small blocks when hit by the ball. And adding the audio source for the bricks when the ball hits them.
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
