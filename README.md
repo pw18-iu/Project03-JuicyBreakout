@@ -12,11 +12,14 @@ For the three scenes: "MainMenu", "One", and "EndMenu", I added dynamic backgrou
 
 In the scene "One":
 
+I replaced the ball with a heart shape, and replaced the comet effect with a shape similar to a velocity line (it's a bit hard to see).
+
 I added a blinking effect to the eyeballs on the paddle. which reference the paddle's changes in the previous exercises 3a (a loop that changes from transparent to opaque and then back to transparent) to make the eyeballs blink.
 
 I changed the animation of the bricks disappearing from "fall" to "Transform Do rotate".
 
 I also added particle effects to the bricks, so that they would burst and generate small blocks when hit by the ball. And adding the audio source for the bricks when the ball hits them.
+
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
